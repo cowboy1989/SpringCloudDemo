@@ -75,5 +75,7 @@ SpringCloud按照项目部署可以分为以下几个部分注册中心（服务
 6. 定义@FeignClient用于描述服务提供者的具体服务。
 7. 无启动顺序。
 
+#### 配置文件中所有关于IP的地址均需替换为实际的注册中心地址，如果本地测试，则全部替换为本地IP即可。
+
 
 https://github.com/yu199195/happylifeplat-transaction
